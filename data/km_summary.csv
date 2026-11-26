@@ -1,0 +1,4 @@
+group,n,resolved,median_days_to_resolution,survival_at_5_years
+all,1175,59,not reached,0.949
+injection,838,15,not reached,0.996
+non-injection,337,44,not reached,0.741

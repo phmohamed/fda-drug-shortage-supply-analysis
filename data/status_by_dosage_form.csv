@@ -1,0 +1,8 @@
+form,records,resolved,to_be_discontinued,resolved_pct,discontinued_pct
+Injection,991,15,153,1.5,15.4
+Tablet,296,41,125,13.9,42.2
+Capsule,130,0,25,0.0,19.2
+Other,93,0,53,0.0,57.0
+Solution,35,3,32,8.6,91.4
+"Tablet, Chewable",18,0,0,0.0,0.0
+"Capsule, Extended Release",14,0,14,0.0,100.0
